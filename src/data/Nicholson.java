@@ -10,5 +10,9 @@ package data;
  * @author Francesco
  */
 public class Nicholson {
+
+    public Nicholson() {
+    }
+    
     
 }
