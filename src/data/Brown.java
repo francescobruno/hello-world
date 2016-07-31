@@ -10,5 +10,14 @@ package data;
  * @author Francesco
  */
 public class Brown {
+    private String bobSaget;
+
+    public Brown(String bobSaget) {
+        this.bobSaget = bobSaget;
+    }
+
+    public String getBobSaget() {
+        return bobSaget;
+    }
     
 }
