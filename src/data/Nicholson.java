@@ -12,7 +12,7 @@ package data;
 public class Nicholson {
 
     public Nicholson(String bob) {
-       
+       bob = "ciao";
     }
     
     
