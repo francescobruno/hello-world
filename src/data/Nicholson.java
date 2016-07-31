@@ -11,7 +11,7 @@ package data;
  */
 public class Nicholson {
 
-    public Nicholson() {
+    public Nicholson(String saget) {
     }
     
     
