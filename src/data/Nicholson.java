@@ -10,9 +10,10 @@ package data;
  * @author Francesco
  */
 public class Nicholson {
+    String saget;
 
     public Nicholson(String bob) {
-       
+       bob= saget;
     }
     
     
