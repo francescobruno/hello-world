@@ -13,7 +13,7 @@ public class Nicholson {
     String saget;
 
     public Nicholson(String bob) {
-       bob = "ciao";
+       bob = "Nicholson";
     }
     
     
